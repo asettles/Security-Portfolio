@@ -3,7 +3,7 @@
 Documented cloud security investigations, built in a live Azure tenant
 (Mad Hat Labs, a multi-user training environment).
 
-Target role: SOC Analyst / Security Engineer / Cloud Security 
+Target role: SOC Analyst / Security Engineer / Cloud Security / 
 Currently: Cybersecurity Instructor | Aiken, SC
 Contact: asettles777@protonmail.com · https://www.linkedin.com/in/andrew-settles/
 
